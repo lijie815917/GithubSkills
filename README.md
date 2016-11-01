@@ -1,5 +1,8 @@
 # GithubSkills
 测试GithubSkills
-![Demo Screenshot][1]
+
+![MyApplication][1]
 
 [1]: ./screenshots/ic_launcher.jpg
+
+![](https://github.com/lijie815917/GithubSkills/blob/master/screenshots/ic_launcher.png)
