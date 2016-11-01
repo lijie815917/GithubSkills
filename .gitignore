@@ -11,4 +11,4 @@
 *.apk  #optional
 app/libs/
 app/src/main/res/drawable/
-screenshots/
+#screenshots/
